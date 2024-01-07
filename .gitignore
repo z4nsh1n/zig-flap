@@ -1,0 +1,4 @@
+tinyc.games/
+zig-cache/
+zig-out/
+build.zig
